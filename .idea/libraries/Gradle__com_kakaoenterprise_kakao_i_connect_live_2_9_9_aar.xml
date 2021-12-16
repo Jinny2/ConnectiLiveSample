@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.kakaoenterprise:kakao-i-connect-live:2.9.9@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Downloads/brockoli-fragmentsharedelements-87421a65f2aa/gradle/wrapper/caches/transforms-3/0128c6178beb609aa87b004bc5407093/transformed/jetified-kakao-i-connect-live-2.9.9/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/brockoli-fragmentsharedelements-87421a65f2aa/gradle/wrapper/caches/transforms-3/0128c6178beb609aa87b004bc5407093/transformed/jetified-kakao-i-connect-live-2.9.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/brockoli-fragmentsharedelements-87421a65f2aa/gradle/wrapper/caches/transforms-3/0128c6178beb609aa87b004bc5407093/transformed/jetified-kakao-i-connect-live-2.9.9/res" />
+      <root url="file://$USER_HOME$/Downloads/brockoli-fragmentsharedelements-87421a65f2aa/gradle/wrapper/caches/transforms-3/0128c6178beb609aa87b004bc5407093/transformed/jetified-kakao-i-connect-live-2.9.9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
