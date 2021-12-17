@@ -61,6 +61,9 @@ dependencies {
     implementation "com.google.code.gson:gson:$gson_version"
     // Kakao i Connect Live SDK
     implementation "com.kakaoenterprise:kakao-i-connect-live:$kakao_i_live_version"
+    // Web RTC
+    implementation 'org.webrtc:google-webrtc:1.0.32006'
+    implementation files('libs/autobanh.jar')
 
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
