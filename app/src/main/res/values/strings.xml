@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">ConnectiLiveSample</string>
+    <string name="service_id">4d9b598b-3b0f-40d8-ad5f-dc586cf5cca4</string>
+    <string name="service_key">d09c37f8832b1579e1ec8e46220a74066c05513a2f7979aec1980511b327a786</string>
 </resources>
